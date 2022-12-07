@@ -1,0 +1,359 @@
+div.box1 {
+background:#D17F8E;
+text-align:center;
+color:#FFE6DF;
+width:700px;
+height:60px;
+border:1px dotted #FFE6DF;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box1:hover {
+background:#D17F8E;
+text-align:center;
+color:#FFE6DF;
+width:700;
+height:255px;
+border:1px dotted #FFE6DF;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box2 {
+background:#D17F8E;
+text-align:center;
+color:#FFE6DF;
+width:700px;
+height:60px;
+border:1px dotted #FFE6DF;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box2:hover {
+background:#D17F8E;
+text-align:center;
+color:#FFE6DF;
+width:700px;
+height:255px;
+border:1px dotted #FFE6DF;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.box3 {
+background:#D17F8E;
+text-align:center;
+color:#FFE6DF;
+width:700px;
+height:60px;
+border:1px dotted #FFE6DF;
+transition:all ease 2s;
+border-radius:5px;
+overflow:hidden;
+}
+
+.box3:hover {
+background:#D17F8E;
+text-align:center;
+color:#FFE6DF;
+width:700px;
+height:255px;
+border:1px dotted #FFE6DF;
+transition:all ease 2s;
+border-radius:5px;
+overflow:auto;
+}
+
+div.boxfloat {
+background:#D17F8E;
+color:#FFE6DF;
+border:1px dotted #FFE6DF;
+position:fixed;
+text-align:center;
+border-radius:5px;
+left:0px;
+bottom:0px;
+width:165px;
+height:200px;
+overflow:auto;
+}
+
+body {background: url("https://i.imgur.com/hLIB7JJ.gif") fixed;background-repeat: no-repeat;background-size: cover;color: ##FFE6DF;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #FFE6DF;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Arial !important;
+text-align: left;
+color: #FFE6DF;
+border-bottom: 1px dotted #FFE6DF;
+}
+
+/* BUTTONS */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(209, 127, 142, 0.21);
+color: #FFE6DF;
+border: 1px dotted #FFE6DF;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+ font-family: Arial;
+}
+ 
+ 
+/* LINKS */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #FFE6DF;
+ font-family: Arial;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px dotted #FFE6DF;
+color: #FFE6DF;
+ font-family: Arial;
+}
+ 
+/* TOPBAR */
+ 
+.topbar {
+background: #D17F8E;
+border: 1px dotted #FFE6DF;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+ font-family: Arial;
+}
+
+.badge {
+background: rgba(209, 127, 142, 0.21);
+border: 1px dotted #FFE6DF;
+ font-family: Arial;
+}
+ 
+/* NAVBAR */
+ 
+.main {
+background: rgba(209, 127, 142, 0.21);
+border: 1px dotted #FFE6DF;
+box-shadow: none;
+ font-family: Arial;
+}
+ 
+.navbar {
+background: #D17F8E;
+border-bottom: 1px dotted #FFE6DF;
+color: #FFE6DF;
+ font-family: Arial;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #FFE6DF;
+ font-family: Arial;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #FFE6DF;
+background: #B57685;
+border-left: 1px dotted #FFE6DF;
+border-right: 1px dotted #FFE6DF;
+ font-family: 'Special Elite', Arial ,cursive;
+} 
+ 
+ 
+ 
+/* SIDEBAR */
+ 
+.sidebar {
+background: rgba(209, 127, 142, 0.21);
+border: 0px solid #000;
+border-bottom: 1px dotted #FFE6DF;
+border-left: 1px dotted #FFE6DF;
+color: #FFE6DF;
+ font-family: Arial;
+}
+ 
+.col-md-3 .panel {
+background: #D17F8E;
+border:1px dotted #FFE6DF;
+ font-family: Arial;
+}
+ 
+.progress-bar {
+background: #B57685;
+ font-family: Arial;
+}
+ 
+.progress {
+background: #F99BAB;
+border: 1px dotted #FFE6DF;
+ font-family: 'Special Elite', Arial ,cursive;
+}
+/* text on progress bars */
+.progress div {color: #FFE6DF;}
+ 
+/* CHAT */
+ 
+.chat_light, .chat_dark {
+background: rgba(209, 127, 142, 0.21);
+font-size: 11px;
+color: #FFE6DF;
+ font-family: Arial;
+}
+
+.chatContainer {
+border: 1px dotted #FFE6DF;
+ font-family: Arial;
+}
+ 
+.userstolen {
+background: none;
+ font-family: Arial;
+}
+
+.alert-danger {
+color: #FFE6DF;
+background: #B57685;
+border: 1px dotted #FFE6DF;
+ font-family: Arial;
+}
+
+.alert-success {
+color: #FFE6DF;
+background: #F99BAB;
+border: 1px dotted #FFE6DF;
+ font-family: Arial;
+}
+
+.breadcrumb {
+background:  rgba(209, 127, 142, 0.21);
+font-size: 13px;
+border: 1px dotted #FFE6DF;
+ font-family: Arial;
+}
+ 
+.breadcrumb>.active {
+color: #FFE6DF;
+ font-family: Arial;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #FFE6DF;
+ font-family: Arial;
+}
+ 
+.col-md-9 {
+background: none;
+border: 0px dotted #FFE6DF;
+ font-family: Arial;
+}
+ 
+/* TABLES */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px dotted #FFE6DF;
+ font-family: Arial;
+}
+ 
+.table, .item {
+border: 1px dotted #FFE6DF;
+background: #D17F8E;
+border-collapse: separate;
+ font-family: Arial;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px dotted #FFE6DF;
+ font-family: Arial;
+}
+
+/* top and bottom of boxes */
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px dotted #FFE6DF;
+background: #D17F8E;
+color: #FFE6DF;
+ font-family: Arial;
+}
+
+/* cave and mound boxes */
+.cave-grid, div .left, .mound-grid {
+border: 1px dotted #FFE6DF;
+background: #D17F8E;
+color: #FFE6DF;
+ font-family: Arial;
+}
+
+/* left part inside box */
+.table .left {
+border: 1px dotted #FFE6DF;
+background: #B57685;
+color: #FFE6DF;
+ font-family: Arial;
+}
+
+/* right part inside box */
+.inner-table .right {
+background: #F99BAB;
+border: 1px dotted #FFE6DF;
+border-left: none;
+ font-family: Arial;
+}
+
+/* logo */
+body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+ content: url('https://i.imgur.com/8Q6tixT.png')}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+width: 10px;
+}
+  
+/* part the scroll sits on*/
+::-webkit-scrollbar-track {
+background-color: #F99BAB;
+}
+  
+/* The thingy that moves */
+::-webkit-scrollbar-thumb {
+background-color:  #B57685;
+border-radius: 0px;
+border: none;
+}
+
+/* UNSEEN TEXT THAT SHOULD ALWAYS BE BLACK */
+textarea {color:black!important;}
+
+input[tpye="text"] {color:black!important;}
+
+select {color:black!important;}
+
+ 
+ /* fill in for extra info */
+ 
+ 
+ /* HTML is 
+<div class="box1"> 
+TEXT HERE
+</div>
+<div class="box2"> 
+TEXT HERE
+</div>
+<div class="box3"> 
+TEXT HERE
+</div>
+<div class="boxfloat"> 
+TEXT HERE
+</div>
+<div class="boxfloat">Floating box</div> */
